@@ -1,4 +1,4 @@
-package com.example.demo.vo;
+package com.jyh.board.vo;
 
 public class boardVO {
 

@@ -1,4 +1,4 @@
-package com.example.demo.dto;
+package com.jyh.board.dto;
 
 public class Test {
     private String id;

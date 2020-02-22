@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.jyh.board.service;
 
-import com.example.demo.mapper.TestMapper;
-import com.example.demo.dto.Test;
+import com.jyh.board.mapper.TestMapper;
+import com.jyh.board.dto.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

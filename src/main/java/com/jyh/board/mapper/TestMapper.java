@@ -1,6 +1,7 @@
-package com.example.demo.mapper;
+package com.jyh.board.mapper;
 
-import com.example.demo.dto.Test;
+import com.jyh.board.dto.Test;
+
 import java.util.List;
 
 public interface TestMapper {
